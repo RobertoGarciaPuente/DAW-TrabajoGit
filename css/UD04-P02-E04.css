@@ -1,0 +1,50 @@
+.grupo {
+    display: flex;
+    flex-direction: row;
+}
+
+.ko {
+    color: white;
+    background-color: salmon;
+    width: 20px;
+    height: 20px;
+    border-radius:50%;
+    text-align: center;
+    margin:0px 5px 0px 5px;
+    
+}
+.ko a{
+    color: white;
+    text-decoration: none;
+}
+
+.ok {
+    color: white;
+    background-color: lightgreen;
+    width: 20px;
+    height: 20px;
+    border-radius:25%;
+    text-align: center;
+    margin:0px 5px 0px 5px;
+}
+
+.ok a{
+    color: white;
+    text-decoration: none;
+}
+
+.blanco {
+    color: white;
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius:50%;
+    text-align: center;
+    margin:0px 5px 0px 5px;
+    
+}
+
+.blanco a{
+    color: white;
+    text-decoration: none;
+}
